@@ -1,0 +1,29 @@
+.dark-gry{
+    background: rgba(170, 174, 193, .8)
+}
+.maroon{
+    background: rgba(115, 47, 47, .8)
+}
+.light-gry{
+    background: rgba(221, 221, 221, .8)
+}
+.black{ 
+    background: rgba(13, 18, 27, 0.5)
+}
+.purple{
+    background: rgba(135, 61, 255, 1)
+}
+.white{background: rgba(255,255,255,1)}
+
+.panels{
+    background: linear-gradient(
+        rgb(66, 66, 66, .5), rgba(62, 62, 62, 0.5)
+    );
+    
+    border-radius: 10px;
+    overflow: hidden;
+}
+.whitetxt{
+    font-weight: bold;
+    color: rgba(246,246,246,1);
+}

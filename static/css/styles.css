@@ -1,0 +1,37 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.div-margin{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.div-image{
+align-items: center;
+}
+.div-top-btm-margin{
+    margin-top: 0;
+    margin-bottom: 10;
+}
+
+.small-font{
+    font-size: 10px;
+}
+
+.medium-font{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.large-font{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.webcontainer{
+    width: auto;
+    height: 100%;
+}
